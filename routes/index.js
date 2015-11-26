@@ -7,5 +7,3 @@ router.get('/', function(req, res, next) {
 });
 
 module.exports = router;
-
-// https://blooming-wave-1484.herokuapp.com/
