@@ -7,6 +7,7 @@ var bodyParser = require('body-parser');
 
 var routes = require('./routes/index');
 var users = require('./routes/users');
+var surveys = require('./routes/surveys');
 
 var app = express();
 // https://blooming-wave-1484.herokuapp.com/
